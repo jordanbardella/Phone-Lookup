@@ -2,15 +2,6 @@
 <body>
   <h1>Phone-Lookup</h1>
   
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [License](#license)
-  
   <h2>Overview</h2>
   <p>Phone-Lookup is a tool designed for retrieving information associated with a phone number, leveraging Open Source Intelligence (OSINT) techniques.</p>
 
