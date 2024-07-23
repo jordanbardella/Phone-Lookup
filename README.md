@@ -1,7 +1,16 @@
 
 <body>
   <h1>Phone-Lookup</h1>
+  
+## Table of Contents
 
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [License](#license)
+  
   <h2>Overview</h2>
   <p>Phone-Lookup is a tool designed for retrieving information associated with a phone number, leveraging Open Source Intelligence (OSINT) techniques.</p>
 
@@ -35,9 +44,6 @@
 
   <h2>Interface Preview</h2>
   <img src="https://github.com/violeur2mineur/Phone-Lookup/assets/174254352/f51cc158-6b2f-4baf-916d-155b9fed9e5c" alt="Phone Lookup Interface Preview">
-
-  <h2>Contributing</h2>
-  <p>Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
 
   <h2>License</h2>
   <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
